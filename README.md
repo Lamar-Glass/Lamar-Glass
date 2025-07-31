@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Lamar Glass
+# Hello, I'm Lamar Glass
 
 I'm a self-taught aspiring AI engineer from Kenya, committed to mastering the full stack of Artificial Intelligence — from foundational theory to advanced engineering and deployment.
 
