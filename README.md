@@ -1,60 +1,59 @@
-# Hello there, I'm Lamar Glass
+# 👋 Hello there, I'm Lamar Glass
 
-I'm a self-taught aspiring AI engineer from Kenya, committed to mastering the full stack of Artificial Intelligence — from foundational theory to advanced engineering and deployment.
-
-## 🚀 My Journey: AI Science + Engineering (2025–2026)
-
-Starting August 1, 2025, I’ve embarked on an 18-month intensive self-study program focused on:
-
-🧠 **AI Science** (Theory & Math)  
-🛠️ **AI Engineering** (Systems & Deployment)  
-📈 **Real-World Projects** (Portfolio Development)
+I'm a self-taught aspiring full-stack web developer from Kenya, currently on a 6-month mission to master modern web technologies and build impactful digital products.
 
 ---
 
-### 🗓️ Structured Learning Schedule
+## 🚀 My Journey: Full-Stack Web Development (Aug 2025 – Jan 2026)
 
-| Phase | Duration | Focus Areas |
-|------|----------|-------------|
-| Months 1–3 | Python, Math, DSA | Core programming & AI math foundations |
-| Months 4–6 | Machine Learning | Supervised/unsupervised learning, first project |
-| Months 7–9 | Deep Learning | CNNs, RNNs, TensorFlow/PyTorch projects |
-| Months 10–12 | NLP & RL | Transformers, BERT, RL agents, capstone |
-| Months 13–15 | Deployment & MLOps | Docker, FastAPI, cloud services |
-| Months 16–18 | Specialization | Industry AI, ethics, networking, advanced projects |
+This is a focused, fast-paced learning plan designed to help me go from fundamentals to building and deploying real-world apps.
+
+🧠 **Front-End Development** – HTML, CSS, JavaScript, React  
+🛠️ **Back-End Development** – Node.js (or Python), APIs, Databases  
+🚀 **Deployment** – GitHub, Netlify, Render, Heroku
+
+---
+
+### 🗓️ 6-Month Learning Timeline
+
+| Month | Focus |
+|-------|-------|
+| Month 1 | HTML, CSS, Git, Intro to JavaScript |
+| Month 2 | JavaScript Deep Dive, DOM, Responsive Design |
+| Month 3 | React Basics, Routing, Components, Hooks |
+| Month 4 | Node.js (or Flask), REST APIs, MongoDB/PostgreSQL |
+| Month 5 | Full-Stack Projects, Auth, Error Handling |
+| Month 6 | Deployment, CI/CD, Freelance Portfolio Projects |
 
 ---
 
 ### 🛠️ Current Tools & Skills (in progress)
 
-- Programming: `Python`, `NumPy`, `Pandas`, `Matplotlib`
-- Math: `Linear Algebra`, `Calculus`, `Probability`, `Statistics`
-- ML: `Scikit-learn`, `Model Evaluation`, `Feature Engineering`
-- DL: `TensorFlow`, `PyTorch`, `CNNs`, `RNNs`, `Transformers`
-- Deployment: `Docker`, `FastAPI`, `AWS`
-- Projects: Hosted and documented on GitHub
+- **Languages & Frameworks:** `HTML`, `CSS`, `JavaScript`, `React`, `Node.js`, `Flask`
+- **Databases:** `MongoDB`, `PostgreSQL`
+- **Tools:** `Git`, `GitHub`, `VS Code`, `Postman`, `Netlify`, `Render`
+- **Soft Skills:** Self-discipline, consistency, problem-solving
 
 ---
 
 ### 📚 Study Hours & Routine
 
-- ⏰ **6 hrs/day** | **20–40 hrs/week**
-- 2–3 hrs: Theory (Courses, Reading)
-- 2–3 hrs: Coding Projects & Practice
-- 1–2 hrs: LeetCode, HackerRank, Kaggle
-- 📢 1 hr: Community engagement & networking
+- ⏰ **6 hrs/day** | **30+ hrs/week**
+- 🧠 2 hrs: Learning concepts (videos, docs)  
+- 💻 2 hrs: Coding exercises & building  
+- 📝 1 hr: GitHub commits, journaling  
+- 🌍 1 hr: Community, networking, or freelancing prep
 
 ---
 
 ### 🔗 Let’s Connect
 
-- 📧 Email: [lamarjonesglass@gmail.com]
-- 🌐 LinkedIn: [Your LinkedIn Profile]
+- 📧 Email: [lamarjonesglass@gmail.com]  
+- 🌐 LinkedIn: [Your LinkedIn Profile]  
 - 💼 Portfolio: [Coming Soon]
 
 ---
 
 > **“Learn deeply. Build fearlessly. Share openly.”**
 
-🌱 Follow along as I grow from student to AI engineer — one project, one paper, and one line of code at a time.
-
+🌱 Follow my journey as I grow into a professional full-stack developer — one commit, one repo, and one deployed app at a time.
