@@ -48,6 +48,9 @@ This is a focused, fast-paced learning plan designed to help me go from fundamen
 
 ### 🔗 Let’s Connect
 
+---
+
+
 - 📧 Email: [lamarjonesglass@gmail.com]  
 - 🌐 LinkedIn: [Your LinkedIn Profile]  
 - 💼 Portfolio: [Coming Soon]
@@ -57,3 +60,21 @@ This is a focused, fast-paced learning plan designed to help me go from fundamen
 > **“Learn deeply. Build fearlessly. Share openly.”**
 
 🌱 Follow my journey as I grow into a professional full-stack developer — one commit, one repo, and one deployed app at a time.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lamar-Glass&show_icons=true&theme=radical" alt="Lamar's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lamar-Glass&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+</p>
+
+---
+
+## 🏆 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lamar-Glass&theme=radical" alt="GitHub Streak" />
+</p>
+
