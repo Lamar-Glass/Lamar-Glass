@@ -65,11 +65,13 @@ This is a focused, fast-paced learning plan designed to help me go from fundamen
 
 ---
 
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lamar-Glass&show_icons=true&theme=dark&icon_color=FFD700&text_color=FFD700&title_color=FFD700" alt="Lamar's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lamar-Glass&layout=compact&theme=dark&title_color=FFD700&text_color=FFD700" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lamar-Glass&show_icons=true&theme=dark&icon_color=808080&text_color=FFFFFF&title_color=FFFFFF" alt="Lamar's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lamar-Glass&layout=compact&theme=dark&title_color=FFFFFF&text_color=FFFFFF" alt="Top Languages" width="48%" />
 </p>
 
 ---
@@ -77,6 +79,5 @@ This is a focused, fast-paced learning plan designed to help me go from fundamen
 ## 🏆 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Lamar-Glass&theme=dark&fire=FFD700&ring=FFD700&currStreakLabel=FFD700&sideNums=FFD700&sideLabels=FFD700&dates=FFD700&stroke=FFD700" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Lamar-Glass&theme=dark&fire=FFFFFF&ring=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&stroke=FFFFFF" alt="GitHub Streak" />
 </p>
-
