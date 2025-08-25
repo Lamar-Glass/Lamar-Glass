@@ -10,23 +10,28 @@
 ---
 
 ## 📖 About Me
-I’m **Lamar Glass**, a **self-learning software engineer** from Kenya, passionate about coding, problem-solving, and building impactful projects.  
+I’m **Lamar Glass**, a passionate **self-learning software engineer** from Kenya. I enjoy coding, solving problems, and building projects that make an impact.
 
 ---
 
 ## ⏳ Commitment
-I dedicate my time to:
+I focus on:
 - Learning programming and software development
 - Practicing through real-world projects
-- Continuously improving my coding skills
+- Continuously improving my skills
 
 ---
 
 ## 🎯 Goal
-To grow into a professional **software engineer** capable of building reliable, scalable, and innovative solutions.
+To grow into a professional **software engineer**, building reliable, scalable, and innovative solutions.
+
+---
+
+## 🔗 Connect with Me
+[LinkedIn: Lewis Ndubi](https://www.linkedin.com/in/lewis-ndubi-687901377)
 
 ---
 
 <div align="center">
-  <i>📌 Follow my journey here on GitHub as I learn and share projects.</i>
+  <i>📌 Follow my journey on GitHub as I learn and share projects.</i>
 </div>
