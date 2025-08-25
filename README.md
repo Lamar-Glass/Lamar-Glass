@@ -28,7 +28,7 @@ To grow into a professional **software engineer**, building reliable, scalable, 
 ---
 
 ## 🔗 Connect with Me
-[LinkedIn: Lewis Ndubi](https://www.linkedin.com/in/lewis-ndubi-687901377)
+[LinkedIn: LAMAR GLASS](https://www.linkedin.com/in/lewis-ndubi-687901377)
 
 ---
 
