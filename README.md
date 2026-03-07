@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Lamar
+## 👋 Hello There..I’m Lamar
 
 I’m a self-taught **aspiring AI engineer** passionate about designing and building intelligent, efficient, and meaningful software systems. My primary focus is on **machine learning, data-driven applications, and software engineering fundamentals**. I enjoy working with technologies such as **Python**, **Linux**, and modern machine learning frameworks, and I take pleasure in experimenting with different tools and libraries as I develop my understanding of artificial intelligence.
 
