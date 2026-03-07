@@ -43,5 +43,14 @@ I truly appreciate any form of support from those willing to help along the way.
 </p>
 
 ---
+<a href="mailto:your-email@example.com">
+  <img src="https://img.shields.io/badge/Email-lamarglass%40gmail.com-black?style=for-the-badge&logo=gmail"/>
+</a>
+
+<p align="center">
+<a href="mailto:your-email@example.com">
+<img src="https://img.shields.io/badge/email-D14836?style=flat&logo=gmail&logoColor=white">
+</a>
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
