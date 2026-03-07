@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I am an aspiring self-taught AI engineer with a strong interest in artificial intelligence, machine learning, and software engineering. I am currently focused on building a solid foundation in Python, data science, and machine learning frameworks while continuously developing practical projects to strengthen my skills. My goal is to design intelligent systems that solve real-world problems and contribute to the advancement of AI technology. I believe in disciplined self-learning, consistent practice, and open-source collaboration as the path toward becoming a skilled AI engineer.
 
 # 💻 Tech Stack:
