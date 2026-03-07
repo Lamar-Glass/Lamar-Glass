@@ -31,5 +31,17 @@ I truly appreciate any form of support from those willing to help along the way.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Lamar-Glass&icon=5&color=4)](https://visitcount.itsvg.in)
+---
+---
+
+### 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:connectwithlamar0@proton.me">
+    <img src="https://img.shields.io/badge/Email-Connect%20with%20me-D14836?style=for-the-badge&logo=gmail&logoColor=black" />
+  </a>
+</p>
+
+---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
