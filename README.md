@@ -32,13 +32,12 @@ I truly appreciate any form of support from those willing to help along the way.
 ---
 [![](https://visitcount.itsvg.in/api?id=Lamar-Glass&icon=5&color=4)](https://visitcount.itsvg.in)
 ---
----
-
 ### 📫 Connect With Me
-<a href="mailto:connectwithlamar0@proton.me">
-  <img src="https://img.shields.io/badge/Email-Connect%40with%40me-black?style=for-the-badge&logo=gmail"/>
-</a>
-
+<p align="center">
+  <a href="mailto:connectwithlamar0@proton.me">
+    <img src="https://img.shields.io/badge/Email-Connect%20with%20Me-black?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
