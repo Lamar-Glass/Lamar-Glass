@@ -8,21 +8,7 @@ I’m constantly learning and currently exploring concepts in **machine learning
 
 ---
 
-### Support My Journey
-
-I truly appreciate any form of support from those willing to help along the way. Opportunities such as **internships, mentorship, collaboration, or professional offers** are especially meaningful as I continue developing my skills and gaining real-world experience in AI and software engineering.
-
-<!--
-<p align="center">
-  <a href="https://www.buymeacoffee.com/lamarglass" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200"/>
-  </a>
-</p>
--->
-
----
-
-### 🧠 Tech Stack ["Currently Learning"]:
+### 🧠 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) 
@@ -42,15 +28,21 @@ I truly appreciate any form of support from those willing to help along the way.
 ---
 
 ### 📊 GitHub Stats
-![Lamar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lamar-Glass&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 
-![Lamar's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lamar-Glass&theme=dark&hide_border=true)
+<!-- Main stats -->
+![Lamar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lamar-Glass&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lamar-Glass&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<!-- Streak stats -->
+![Lamar's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lamar-Glass&theme=radical&hide_border=true)
+
+<!-- Top languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lamar-Glass&theme=radical&hide_border=true&layout=compact&langs_count=8)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Lamar-Glass&icon=5&color=4)](https://visitcount.itsvg.in)
+### 🌐 Visitor Count
+
+![Visitor Count](https://profile-counter.glitch.me/Lamar-Glass/count.svg)
 
 ---
 
@@ -60,6 +52,3 @@ I truly appreciate any form of support from those willing to help along the way.
     <img src="https://img.shields.io/badge/Email-Connect%20with%20Me-black?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
-<!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
-<!-- Edited by yours truly: Lamar-Glass -->
