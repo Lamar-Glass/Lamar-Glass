@@ -37,9 +37,9 @@ Beyond coding, I am committed to continuous learning, collaboration, and contrib
 
 ## 📊 GitHub Stats
 
-![Lamar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lamar-Glass&theme=dark&show_icons=true&count_private=true&include_all_commits=true)  
+![Lamar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lamar-Glass&theme=dark&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=FFA500&icon_color=FFA500)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lamar-Glass&layout=compact&theme=dark&count_private=true&include_all_commits=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lamar-Glass&layout=compact&theme=dark&hide_border=true&title_color=FFA500&icon_color=FFA500&langs_count=6)
 
 ---
 
