@@ -35,18 +35,8 @@ Beyond coding, I am committed to continuous learning, collaboration, and contrib
 
 ---
 
-## 📊 GitHub Stats
-
-![Lamar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lamar-Glass&theme=dark&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=FFA500&icon_color=FFA500)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lamar-Glass&layout=compact&theme=dark&hide_border=true&title_color=FFA500&icon_color=FFA500&langs_count=6)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=Lamar-Glass&icon=5&color=4)](https://visitcount.itsvg.in)
-
----
-
-## 💰 You can help me by Donating
-
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/lamarvantaglass)
+## 🏆 Certificates
+<p align="middle">
+  <a href="https://www.coursera.org/account/accomplishments/verify/5WN7GQTYQYR3"><img src="https://github.com/Lamar-Glass/IBM-AI-Engineering-Professional-Certificate/blob/main/Certificates%2C%20Badgets%20and%20Assets/Certificates/machine%20learning%20with%20python.png" height="370"></a>
+  <a href="https://www.credly.com/badges/2e865905-a270-441d-94b3-76f90a38b7d8/public_url"><img src="https://github.com/Lamar-Glass/IBM-AI-Engineering-Professional-Certificate/blob/main/Certificates%2C%20Badgets%20and%20Assets/Badges/Machine%20Learning%20with%20Python.png" height="370"></a>
+</p>
