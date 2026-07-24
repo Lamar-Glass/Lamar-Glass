@@ -53,6 +53,9 @@ Completed 8-course professional certificate covering:
   <a href="https://www.credly.com/badges/2e865905-a270-441d-94b3-76f90a38b7d8/public_url">
     <img src="https://github.com/Lamar-Glass/IBM-AI-Engineering-Professional-Certificate/blob/main/Certificates%2C%20Badgets%20and%20Assets/Badges/Machine%20Learning%20with%20Python.png" height="200">
   </a>
+  <a href="https://www.credly.com/badges/faee1b72-3312-45a4-8b95-39b715d590c7/public_url">
+    <img src="https://api.credly.com/v1/badges/faee1b72-3312-45a4-8b95-39b715d590c7/image" height="200">
+  </a>
 </p>
 
 ---
