@@ -47,8 +47,8 @@ Completed 8-course professional certificate covering:
 ## Certificates
 
 <p align="center">
-  <a href="https://www.coursera.org/account/accomplishments/verify/5WN7GQTYQYR3">
-    <img src="https://github.com/Lamar-Glass/IBM-AI-Engineering-Professional-Certificate/blob/main/Certificates%2C%20Badgets%20and%20Assets/Certificates/machine%20learning%20with%20python.png" height="200">
+  <a href="https://www.coursera.org/account/accomplishments/specialization/IX7TH7BIKNNI">
+    <img src="IBM AI Engineering.png" height="200">
   </a>
   <a href="https://www.credly.com/badges/2e865905-a270-441d-94b3-76f90a38b7d8/public_url">
     <img src="https://github.com/Lamar-Glass/IBM-AI-Engineering-Professional-Certificate/blob/main/Certificates%2C%20Badgets%20and%20Assets/Badges/Machine%20Learning%20with%20Python.png" height="200">
