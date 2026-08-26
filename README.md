@@ -1,6 +1,6 @@
 # Hi, I'm Lamar Glass
 
-**AI Engineer | Machine Learning | Deep Learning | Computer Vision**
+**AI Engineer | Machine Learning | Deep Learning | Computer Vision | DevOps**
 
 I design and build intelligent systems that bridge the gap between research and production. My work spans the full ML lifecycle — from data pipelines and model development to deployment and optimization.
 
@@ -12,6 +12,7 @@ I design and build intelligent systems that bridge the gap between research and 
 - **ML Engineering**: Model training, evaluation, optimization, and reproducible pipelines
 - **Data Engineering**: ETL processes, data augmentation, preprocessing pipelines
 - **MLOps**: Experiment tracking, model versioning, deployment workflows
+- **DevOps**: CI/CD pipelines, containerization (Docker/Kubernetes), Agile & Scrum
 
 ---
 
@@ -19,28 +20,31 @@ I design and build intelligent systems that bridge the gap between research and 
 
 | Category | Tools |
 |----------|-------|
-| **Languages** | Python, SQL, Bash |
+| **Languages** | Python, SQL, Bash, Rust |
 | **ML/DL Frameworks** | PyTorch, TensorFlow, Keras, scikit-learn |
 | **Data & Visualization** | Pandas, NumPy, Matplotlib, Plotly, SciPy |
 | **MLOps & Experiment Tracking** | MLflow, DVC |
-| **Tools & Infrastructure** | Git, Docker, Linux, VS Code, CUDA |
+| **Tools & Infrastructure** | Git, Docker, Kubernetes, Linux, VS Code, CUDA |
+| **CI/CD & DevOps** | GitHub Actions, OpenShift, Continuous Integration & Delivery |
 | **LLMs & Generative AI** | Hugging Face Transformers, Ollama, LangChain |
 
 ---
 
 ## Featured Projects
 
-### IBM AI Engineering Professional Certificate
-Completed 8-course professional certificate covering:
-- Data loading & augmentation (Keras & PyTorch)
-- CNN & Vision Transformer architectures
-- Model training, evaluation, and comparative analysis
-- End-to-end deep learning pipelines
+### [aarambh-studio](https://github.com/Lamar-Glass/aarambh-studio)
+🦀 Decoder-only LLM built from scratch in pure Rust using Candle — no Python, no PyTorch. Gated DeltaNet + sparse attention, fine-grained MoE, and quantization-aware training, scaling from Tiny (25M) to Large (1.3B) parameters.
+
+### [Soup](https://github.com/Lamar-Glass/Soup)
+Fine-tune LLMs from one YAML file. Layer streaming trains an 8B model on a 4 GB laptop GPU.
+
+### [gods-eye-view](https://github.com/Lamar-Glass/gods-eye-view)
+Live open-source spatial intelligence on a photorealistic 3D globe — real data, in the browser.
 
 ### Computer Vision & Vision Transformers
 - Built CNN-ViT hybrid models for land classification
 - Implemented custom data loading pipelines (generator-based & memory-based)
-- Comparative analysis of Keras vs PyTorch model performance
+- Comparative analysis of Keras vs PyTorch model performance — full materials in the [IBM AI Engineering repo](https://github.com/Lamar-Glass/IBM-AI-Engineering-Professional-Certificate)
 
 ---
 
@@ -48,7 +52,7 @@ Completed 8-course professional certificate covering:
 
 <p align="center">
   <a href="https://www.coursera.org/account/accomplishments/specialization/IX7TH7BIKNNI">
-    <img src="IBM AI Engineering.png" height="200">
+    <img src="ibm-ai-engineering.png" height="200">
   </a>
   <a href="https://www.credly.com/badges/2e865905-a270-441d-94b3-76f90a38b7d8/public_url">
     <img src="https://github.com/Lamar-Glass/IBM-AI-Engineering-Professional-Certificate/blob/main/Certificates%2C%20Badgets%20and%20Assets/Badges/Machine%20Learning%20with%20Python.png" height="200">
@@ -57,6 +61,9 @@ Completed 8-course professional certificate covering:
     <img src="ibm-ai-engineering-professional-certificate-v3-Badge.png" height="200">
   </a>
 </p>
+
+- [IBM Deep Learning with PyTorch, Keras and TensorFlow](ibm-deep-learning-pytorch-keras-tensorflow.pdf) — [Verify](https://www.coursera.org/verify/professionalCert/6I4U3O0LVNAB)
+- [IBM DevOps and Software Engineering](ibm-devops-software-engineering.pdf) — [Verify](https://www.coursera.org/verify/professionalCert/8KRD7DWO64K2)
 
 ---
 
