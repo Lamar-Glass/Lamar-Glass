@@ -105,3 +105,9 @@ I design and build intelligent systems that bridge the gap between research and 
 <p align="center">
   <i>"Building intelligent systems that combine innovation with practical utility."</i>
 </p>
+
+<p align="center">
+  <i>"If you believe and want to show your support"</i>
+  <i><p align="center">
+  <i>monero:855uzXyG9Qk2PgQbMztuuyZ7zfM5jk8dreKDXQ2PNKi2DdTTUTFNznhP2PoMFfnqB8RDWuVFAs2maEpiG9vFZzkK9Ur6wzi?tx_amount=0.019500000000&recipient_name=Github&tx_description=A%20token%20of%20support</i>
+</p>
