@@ -1,78 +1,49 @@
-Hi, I'm Lamar Glass
 
-AI Engineer | Machine Learning | Deep Learning | Computer Vision | DevOps
+# Hi, I'm Lamar Glass
+
+### AI Engineer | Machine Learning | Deep Learning | Computer Vision | DevOps
 
 I design and develop intelligent systems, combining machine learning research with practical software engineering. My interests span the full AI lifecycle, from data engineering and model development to deployment, optimization, and infrastructure.
 
 My focus is on building reliable, scalable, and reproducible intelligent systems.
 
-About Me
+---
 
-AI Engineering: Machine learning, deep learning, and generative AI.
+## About Me
 
-Computer Vision: CNNs, Vision Transformers (ViT), hybrid architectures, and transfer learning.
+- **AI Engineering:** Machine learning, deep learning, and generative AI.
+- **Computer Vision:** CNNs, Vision Transformers (ViT), hybrid architectures, and transfer learning.
+- **ML Engineering:** Model training, evaluation, optimization, and reproducible workflows.
+- **Data Engineering:** ETL, preprocessing, data augmentation, and data pipelines.
+- **MLOps:** Experiment tracking, model versioning, and deployment workflows.
+- **DevOps:** CI/CD, Docker, Kubernetes, Linux, and cloud-native infrastructure.
 
-ML Engineering: Model training, evaluation, optimization, and reproducible workflows.
+---
 
-Data Engineering: ETL, preprocessing, data augmentation, and data pipelines.
+## Technical Stack
 
-MLOps: Experiment tracking, model versioning, and deployment workflows.
+| Category | Technologies |
+|:---|:---|
+| **Programming Languages** | Python, SQL, Bash, Rust |
+| **Machine Learning** | Scikit-learn, NumPy, Pandas, SciPy |
+| **Deep Learning** | PyTorch, TensorFlow, Keras |
+| **Computer Vision** | CNNs, Vision Transformers, Image Processing |
+| **Generative AI** | Hugging Face Transformers, Ollama, LangChain, RAG |
+| **Data Visualization** | Matplotlib, Plotly |
+| **MLOps & Experiment Tracking** | MLflow, DVC |
+| **DevOps & Infrastructure** | Docker, Kubernetes, OpenShift, Linux |
+| **CI/CD** | GitHub Actions |
+| **Development Tools** | Git, GitHub, VS Code, CUDA |
 
-DevOps: CI/CD, Docker, Kubernetes, Linux, and cloud-native infrastructure.
+---
 
-Technical Stack
+## Certifications
 
-Category
+### IBM AI Engineering Professional Certificate
 
-Technologies
+**13 Courses · July 2026**
 
-Programming Languages
-
-Python, SQL, Bash, Rust
-
-Machine Learning
-
-Scikit-learn, NumPy, Pandas, SciPy
-
-Deep Learning
-
-PyTorch, TensorFlow, Keras
-
-Computer Vision
-
-CNNs, Vision Transformers, Image Processing
-
-Generative AI
-
-Hugging Face Transformers, Ollama, LangChain, RAG
-
-Data Visualization
-
-Matplotlib, Plotly
-
-MLOps & Experiment Tracking
-
-MLflow, DVC
-
-DevOps & Infrastructure
-
-Docker, Kubernetes, OpenShift, Linux
-
-CI/CD
-
-GitHub Actions, Continuous Integration, Continuous Delivery
-
-Development Tools
-
-Git, GitHub, VS Code, CUDA
-
-Certifications
-
-IBM AI Engineering Professional Certificate
-
-13 Courses · July 2026
-
-Verify Certificate
+[Verify Certificate](https://www.coursera.org/verify/professionalCert/IX7TH7BIKNNI)
 
 <p align="center">
   <a href="https://www.coursera.org/account/accomplishments/specialization/IX7TH7BIKNNI">
@@ -83,41 +54,31 @@ Verify Certificate
   </a>
 </p>
 
-Coursework:
+**Coursework:**
 
-Introduction to Deep Learning
+- Introduction to Deep Learning
+- Deep Learning with Keras and TensorFlow
+- Introduction to Neural Networks and PyTorch
+- Deep Learning with PyTorch
+- Generative AI and LLMs
+- AI Agents with RAG and LangChain
+- Introduction to Computer Vision and Image Processing
+- Building Deep Learning Models with PyTorch
+- Applied Machine Learning in Python
+- Machine Learning with Python
+- AI for Everyone
+- Python for Data Science, AI & Development
+- AI Capstone Project with Deep Learning
 
-Deep Learning with Keras and TensorFlow
+**Skills:** Deep Learning, CNNs, Vision Transformers, Transfer Learning, PyTorch, TensorFlow, Keras, NLP, Recommendation Systems, Generative AI, LLMs, RAG, LangChain.
 
-Introduction to Neural Networks and PyTorch
+---
 
-Deep Learning with PyTorch
+### IBM Deep Learning with PyTorch, Keras and TensorFlow
 
-Generative AI and LLMs
+**5 Courses · July 2026**
 
-AI Agents with RAG and LangChain
-
-Introduction to Computer Vision and Image Processing
-
-Building Deep Learning Models with PyTorch
-
-Applied Machine Learning in Python
-
-Machine Learning with Python
-
-AI for Everyone
-
-Python for Data Science, AI & Development
-
-AI Capstone Project with Deep Learning
-
-Skills: Deep Learning, CNNs, Vision Transformers, Transfer Learning, PyTorch, TensorFlow, Keras, NLP, Recommendation Systems, Generative AI, LLMs, RAG, LangChain.
-
-IBM Deep Learning with PyTorch, Keras and TensorFlow
-
-5 Courses · July 2026
-
-Verify Certificate
+[Verify Certificate](https://www.coursera.org/verify/professionalCert/6I4U3O0LVNAB)
 
 <p align="center">
   <a href="https://www.coursera.org/account/accomplishments/professional-cert/6I4U3O0LVNAB">
@@ -128,25 +89,23 @@ Verify Certificate
   </a>
 </p>
 
-Coursework:
+**Coursework:**
 
-Introduction to Deep Learning & Neural Networks with Keras
+- Introduction to Deep Learning & Neural Networks with Keras
+- Deep Learning with Keras and TensorFlow
+- Introduction to Neural Networks and PyTorch
+- Deep Learning with PyTorch
+- AI Capstone Project with Deep Learning
 
-Deep Learning with Keras and TensorFlow
+**Skills:** Neural Networks, Deep Learning, PyTorch, TensorFlow, Keras, NLP, Transformers, Unsupervised Learning, Reinforcement Learning, Model Optimization.
 
-Introduction to Neural Networks and PyTorch
+---
 
-Deep Learning with PyTorch
+### IBM DevOps and Software Engineering Professional Certificate
 
-AI Capstone Project with Deep Learning
+**15 Courses · August 2026**
 
-Skills: Neural Networks, Deep Learning, PyTorch, TensorFlow, Keras, NLP, Transformers, Unsupervised Learning, Reinforcement Learning, Model Optimization.
-
-IBM DevOps and Software Engineering Professional Certificate
-
-15 Courses · August 2026
-
-Verify Certificate
+[Verify Certificate](https://www.coursera.org/verify/professionalCert/8KRD7DWO64K2)
 
 <p align="center">
   <a href="https://www.coursera.org/account/accomplishments/professional-cert/8KRD7DWO64K2">
@@ -157,79 +116,61 @@ Verify Certificate
   </a>
 </p>
 
-Coursework:
+**Coursework:**
 
-Introduction to DevOps
+- Introduction to DevOps
+- Introduction to Cloud Computing
+- Introduction to Agile Development and Scrum
+- Introduction to Software Engineering
+- Getting Started with Git and GitHub
+- Hands-on Introduction to Linux Commands and Shell Scripting
+- Python for Data Science, AI & Development
+- Developing AI Applications with Python and Flask
+- Introduction to Containers with Docker, Kubernetes & OpenShift
+- Application Development using Microservices and Serverless
+- Introduction to Test and Behavior Driven Development
+- Continuous Integration and Continuous Delivery (CI/CD)
+- Application Security for Developers and DevOps Professionals
+- Monitoring and Observability for Development and DevOps
+- DevOps Capstone Project
 
-Introduction to Cloud Computing
+**Skills:** Agile/Scrum, Python, Linux, Shell Scripting, Git, Docker, Kubernetes, OpenShift, CI/CD, Microservices, Serverless, TDD/BDD, Application Security, Monitoring and Observability.
 
-Introduction to Agile Development and Scrum
+---
 
-Introduction to Software Engineering
+## Selected Projects & Technical Work
 
-Getting Started with Git and GitHub
+### Computer Vision & Deep Learning
 
-Hands-on Introduction to Linux Commands and Shell Scripting
+- Developed CNN–Vision Transformer (ViT) hybrid models for land classification.
+- Implemented custom data-loading pipelines using generator-based and memory-based approaches.
+- Explored image preprocessing and data augmentation techniques.
 
-Python for Data Science, AI & Development
+### Deep Learning Framework Evaluation
 
-Developing AI Applications with Python and Flask
+- Conducted comparative analysis of Keras and PyTorch model performance.
+- Worked with model training, evaluation, and optimization workflows.
 
-Introduction to Containers with Docker, Kubernetes & OpenShift
+**Project Repository:**
 
-Application Development using Microservices and Serverless
+[IBM AI Engineering Professional Certificate](https://github.com/Lamar-Glass/IBM-AI-Engineering-Professional-Certificate)
 
-Introduction to Test and Behavior Driven Development
+---
 
-Continuous Integration and Continuous Delivery (CI/CD)
+## Areas of Interest
 
-Application Security for Developers and DevOps Professionals
+- Artificial Intelligence and Machine Learning
+- Deep Learning Architectures
+- Computer Vision and Geospatial Intelligence
+- Large Language Models and AI Agents
+- Retrieval-Augmented Generation (RAG)
+- Distributed Systems and Cloud Infrastructure
+- MLOps and Production AI Systems
+- DevSecOps and Infrastructure Automation
 
-Monitoring and Observability for Development and DevOps
+---
 
-DevOps Capstone Project
-
-Skills: Agile/Scrum, Python, Linux, Shell Scripting, Git, Docker, Kubernetes, OpenShift, CI/CD, Microservices, Serverless, TDD/BDD, Application Security, Monitoring and Observability.
-
-Selected Projects & Technical Work
-
-Computer Vision & Deep Learning
-
-Developed CNN–Vision Transformer (ViT) hybrid models for land classification.
-
-Implemented custom data-loading pipelines using generator-based and memory-based approaches.
-
-Explored image preprocessing and data augmentation techniques.
-
-Deep Learning Framework Evaluation
-
-Conducted comparative analysis of Keras and PyTorch model performance.
-
-Worked with model training, evaluation, and optimization workflows.
-
-Project Repository:
-
-IBM AI Engineering Professional Certificate
-
-Areas of Interest
-
-Artificial Intelligence and Machine Learning
-
-Deep Learning Architectures
-
-Computer Vision and Geospatial Intelligence
-
-Large Language Models and AI Agents
-
-Retrieval-Augmented Generation (RAG)
-
-Distributed Systems and Cloud Infrastructure
-
-MLOps and Production AI Systems
-
-DevSecOps and Infrastructure Automation
-
-Let's Connect
+## Let's Connect
 
 <p align="left">
   <a href="mailto:lamarvantaglass@gmail.com">
@@ -243,33 +184,41 @@ Let's Connect
   </a>
 </p>
 
-Support My Work
+---
+
+## Support My Work
 
 If you find my work useful and would like to support my independent research, engineering experiments, and open-source development, donations are appreciated.
 
-Bitcoin (BTC)
+### Bitcoin (BTC)
 
 <p align="left">
   <img src="https://img.shields.io/badge/Bitcoin-BTC-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin">
 </p>
 
-Bitcoin Network
+**Bitcoin Network**
 
+```text
 bc1qlavqxnn3ezt8qhqvvv0w0qgt776wr42jleytwc
+```
 
-Monero (XMR)
+### Monero (XMR)
 
 <p align="left">
   <img src="https://img.shields.io/badge/Monero-XMR-FF6600?style=for-the-badge&logo=monero&logoColor=white" alt="Monero">
 </p>
 
-Monero Network
+**Monero Network**
 
+```text
 88vSE7fSMuWiVrxjquYN842pKV1gUfxMGFpsmfnfWtsZJFEUWxDhz3SghAMpuhUowpPJYEVsVV1oZB1uEDAtcHusTfAgrfy
+```
 
 <p align="center">
   <i>Every contribution helps support independent engineering, research, and open-source development.</i>
 </p>
+
+---
 
 <p align="center">
   <i>"Building intelligent systems that combine innovation with practical utility."</i>
