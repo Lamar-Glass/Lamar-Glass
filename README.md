@@ -215,6 +215,20 @@
 
 ---
 
+<!-- ACHIEVEMENTS:START -->
+## Achievements
+
+<div align="center">
+
+<img src="github-achievements/assets/achievements.svg" alt="GitHub achievements">
+
+</div>
+
+_Refresh with `python3 github-achievements/github_achievements.py --update-readme`._
+<!-- ACHIEVEMENTS:END -->
+
+---
+
 ## Collaboration & Contact
 
 Interested in applied computer vision, retrieval-augmented systems, and reproducible ML infrastructure.
