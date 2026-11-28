@@ -2,7 +2,7 @@
 
 <!-- Animated typing header -->
 <a href="https://github.com/Lamar-Glass">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2800&pause=900&color=FE6F00&center=true&vCenter=true&width=720&height=60&lines=Hi%2C+I%27m+Lamar+Glass;AI+Engineer+%7C+ML+%7C+Deep+Learning;Computer+Vision+%7C+DevOps+%7C+MLOps;Building+Intelligent+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2800&pause=900&color=FE6F00&center=true&vCenter=true&width=720&height=60&lines=Hi%2C+I%27m+Lamar+Glass;Applied+AI+Research+%26+Engineering;Computer+Vision+%7C+LLMs+%7C+MLOps;Building+Reproducible+Intelligent+Systems" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -18,27 +18,44 @@
 
 <br/><br/>
 
-**AI Engineer** building reliable, scalable, and reproducible intelligent systems —
-from data engineering and model development to deployment, optimization, and infrastructure.
+**Applied AI research & engineering** — computer vision, generative systems, and reproducible ML infrastructure.
 
 </div>
 
 ---
 
-## About Me
+## Research Focus
 
-- **AI Engineering** — Machine learning, deep learning, and generative AI across the full lifecycle.
-- **Computer Vision** — CNNs, Vision Transformers (ViT), hybrid architectures, and transfer learning.
-- **ML Engineering** — Training, evaluation, optimization, and reproducible workflows.
-- **Data Engineering** — ETL, preprocessing, augmentation, and data pipelines.
-- **MLOps** — Experiment tracking, model versioning, and deployment.
-- **DevOps** — CI/CD, Docker, Kubernetes, Linux, and cloud-native infrastructure.
+> **Theme:** turning experimental models into reliable, reproducible intelligent systems.
 
-> **Focus:** turning research into production-grade, reproducible AI systems.
+- **Computer Vision & Geospatial Intelligence** — CNNs, Vision Transformers (ViT), hybrid architectures, transfer learning.
+- **Generative AI & Retrieval** — LLMs, retrieval-augmented generation (RAG), agents, LangChain, Hugging Face.
+- **Model Evaluation** — comparing framework workflows and optimizing training pipelines.
+- **Data-Centric ML** — ETL, preprocessing, augmentation, data pipelines, and custom loaders.
+- **MLOps & Infrastructure** — experiment tracking, model versioning, containers, CI/CD, cloud-native deployment.
 
 ---
 
-## Tech Stack
+## Selected Work
+
+### CNN–ViT hybrids for land classification
+- Developed **CNN–Vision Transformer (ViT) hybrid models** for land classification.
+- Built custom data-loading pipelines using generator-based and memory-based approaches.
+- Explored image preprocessing and data augmentation strategies.
+
+### Deep learning framework evaluation
+- Conducted comparative analysis of **Keras vs. PyTorch** model performance.
+- Worked with model training, evaluation, and optimization workflows.
+
+<div align="center">
+
+[![IBM AI Engineering Repo](https://github-readme-stats.vercel.app/api/pin/?username=Lamar-Glass&repo=IBM-AI-Engineering-Professional-Certificate&hide_border=true&bg_color=000000&title_color=FE6F00&icon_color=D00100&text_color=EAEAEA)](https://github.com/Lamar-Glass/IBM-AI-Engineering-Professional-Certificate)
+
+</div>
+
+---
+
+## Methods & Tooling
 
 <div align="center">
 
@@ -80,28 +97,10 @@ from data engineering and model development to deployment, optimization, and inf
 
 ---
 
-## GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Lamar-Glass&show_icons=true&hide_border=true&bg_color=000000&title_color=FE6F00&icon_color=D00100&text_color=EAEAEA&rank_icon=github" alt="GitHub stats" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Lamar-Glass&hide_border=true&background=000000&ring=FE6F00&fire=D00100&currStreakLabel=FE6F00&sideLabels=D00100&currStreakNum=EAEAEA&sideNum=EAEAEA&dates=C9C9C9" alt="GitHub streak" />
-
-<br/>
-
-<img src="https://ghchart.rshah.org/FE6F00/Lamar-Glass" alt="GitHub contribution activity" />
-
-</div>
-
----
-
-## Certifications
+## Training & Certifications
 
 ### IBM AI Engineering Professional Certificate
-**13 Courses · July 2026** · [Verify Certificate](https://www.coursera.org/verify/professionalCert/IX7TH7BIKNNI)
+**13 courses · July 2026** · [Verify Certificate](https://www.coursera.org/verify/professionalCert/IX7TH7BIKNNI)
 
 <p align="center">
   <a href="https://www.coursera.org/account/accomplishments/specialization/IX7TH7BIKNNI">
@@ -113,7 +112,7 @@ from data engineering and model development to deployment, optimization, and inf
   </a>
 </p>
 
-**Skills:** Deep Learning · CNNs · Vision Transformers · Transfer Learning · PyTorch · TensorFlow · Keras · NLP · Recommendation Systems · Generative AI · LLMs · RAG · LangChain
+**Coverage:** Deep Learning · CNNs · Vision Transformers · Transfer Learning · PyTorch · TensorFlow · Keras · NLP · Recommendation Systems · Generative AI · LLMs · RAG · LangChain
 
 <details>
 <summary><b>View coursework (13 courses)</b></summary>
@@ -137,7 +136,7 @@ from data engineering and model development to deployment, optimization, and inf
 ---
 
 ### IBM Deep Learning with PyTorch, Keras and TensorFlow
-**5 Courses · July 2026** · [Verify Certificate](https://www.coursera.org/verify/professionalCert/6I4U3O0LVNAB)
+**5 courses · July 2026** · [Verify Certificate](https://www.coursera.org/verify/professionalCert/6I4U3O0LVNAB)
 
 <p align="center">
   <a href="https://www.coursera.org/account/accomplishments/professional-cert/6I4U3O0LVNAB">
@@ -149,7 +148,7 @@ from data engineering and model development to deployment, optimization, and inf
   </a>
 </p>
 
-**Skills:** Neural Networks · Deep Learning · PyTorch · TensorFlow · Keras · NLP · Transformers · Unsupervised Learning · Reinforcement Learning · Model Optimization
+**Coverage:** Neural Networks · Deep Learning · PyTorch · TensorFlow · Keras · NLP · Transformers · Unsupervised Learning · Reinforcement Learning · Model Optimization
 
 <details>
 <summary><b>View coursework (5 courses)</b></summary>
@@ -165,7 +164,7 @@ from data engineering and model development to deployment, optimization, and inf
 ---
 
 ### IBM DevOps and Software Engineering Professional Certificate
-**15 Courses · August 2026** · [Verify Certificate](https://www.coursera.org/verify/professionalCert/8KRD7DWO64K2)
+**15 courses · August 2026** · [Verify Certificate](https://www.coursera.org/verify/professionalCert/8KRD7DWO64K2)
 
 <p align="center">
   <a href="https://www.coursera.org/account/accomplishments/professional-cert/8KRD7DWO64K2">
@@ -177,7 +176,7 @@ from data engineering and model development to deployment, optimization, and inf
   </a>
 </p>
 
-**Skills:** Agile/Scrum · Python · Linux · Shell Scripting · Git · Docker · Kubernetes · OpenShift · CI/CD · Microservices · Serverless · TDD/BDD · Application Security · Monitoring & Observability
+**Coverage:** Agile/Scrum · Python · Linux · Shell Scripting · Git · Docker · Kubernetes · OpenShift · CI/CD · Microservices · Serverless · TDD/BDD · Application Security · Monitoring & Observability
 
 <details>
 <summary><b>View coursework (15 courses)</b></summary>
@@ -202,32 +201,25 @@ from data engineering and model development to deployment, optimization, and inf
 
 ---
 
-## Selected Projects & Technical Work
-
-### Computer Vision & Deep Learning
-- Developed **CNN–Vision Transformer (ViT) hybrid models** for land classification.
-- Built custom data-loading pipelines using generator-based and memory-based approaches.
-- Explored image preprocessing and data augmentation techniques.
-
-### Deep Learning Framework Evaluation
-- Conducted comparative analysis of **Keras vs. PyTorch** model performance.
-- Worked with model training, evaluation, and optimization workflows.
+## GitHub Activity
 
 <div align="center">
 
-[![IBM AI Engineering Repo](https://github-readme-stats.vercel.app/api/pin/?username=Lamar-Glass&repo=IBM-AI-Engineering-Professional-Certificate&hide_border=true&bg_color=000000&title_color=FE6F00&icon_color=D00100&text_color=EAEAEA)](https://github.com/Lamar-Glass/IBM-AI-Engineering-Professional-Certificate)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Lamar-Glass&show_icons=true&hide_border=true&bg_color=000000&title_color=FE6F00&icon_color=D00100&text_color=EAEAEA&rank_icon=github" alt="GitHub stats" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Lamar-Glass&hide_border=true&background=000000&ring=FE6F00&fire=D00100&currStreakLabel=FE6F00&sideLabels=D00100&currStreakNum=EAEAEA&sideNum=EAEAEA&dates=C9C9C9" alt="GitHub streak" />
 
 </div>
 
 ---
 
-## Areas of Interest
+## Collaboration & Contact
+
+Interested in applied computer vision, retrieval-augmented systems, and reproducible ML infrastructure.
 
 `Artificial Intelligence` · `Deep Learning Architectures` · `Computer Vision & Geospatial Intelligence` · `LLMs & AI Agents` · `Retrieval-Augmented Generation` · `Distributed Systems & Cloud` · `MLOps & Production AI` · `DevSecOps & Infrastructure Automation`
-
----
-
-## Let's Connect
 
 <div align="center">
 
@@ -242,28 +234,6 @@ from data engineering and model development to deployment, optimization, and inf
 </a>
 
 </div>
-
----
-
-## Support My Work
-
-If my work is useful to you, consider supporting my independent research, engineering experiments, and open-source development. Every contribution helps.
-
-### <img src="https://img.shields.io/badge/Bitcoin-BTC-FE6F00?style=flat-square&logo=bitcoin&logoColor=white&labelColor=000000" alt="Bitcoin"> Bitcoin (BTC)
-
-```text
-bc1qlavqxnn3ezt8qhqvvv0w0qgt776wr42jleytwc
-```
-
-### <img src="https://img.shields.io/badge/Monero-XMR-D00100?style=flat-square&logo=monero&logoColor=white&labelColor=000000" alt="Monero"> Monero (XMR)
-
-<p align="center">
-  <img src="QR%20Monero%20receive.png" width="180" alt="Monero receive QR code">
-</p>
-
-```text
-88vSE7fSMuWiVrxjquYN842pKV1gUfxMGFpsmfnfWtsZJFEUWxDhz3SghAMpuhUowpPJYEVsVV1oZB1uEDAtcHusTfAgrfy
-```
 
 ---
 
