@@ -92,7 +92,7 @@ from data engineering and model development to deployment, optimization, and inf
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lamar-Glass&layout=compact&hide_border=true&bg_color=000000&title_color=FE6F00&icon_color=D00100&text_color=EAEAEA" alt="Top languages" />
+<img src="https://ghchart.rshah.org/FE6F00/Lamar-Glass" alt="GitHub contribution activity" />
 
 </div>
 
