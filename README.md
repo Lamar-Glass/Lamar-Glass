@@ -92,7 +92,7 @@ from data engineering and model development to deployment, optimization, and inf
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lamar-Glass&hide_border=true&bg_color=000000&color=FE6F00&line=D00100&point=FE6F00&area=true&area_color=FE6F00&title_color=FE6F00" alt="Activity graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lamar-Glass&layout=compact&hide_border=true&bg_color=000000&title_color=FE6F00&icon_color=D00100&text_color=EAEAEA" alt="Top languages" />
 
 </div>
 
@@ -258,7 +258,7 @@ bc1qlavqxnn3ezt8qhqvvv0w0qgt776wr42jleytwc
 ### <img src="https://img.shields.io/badge/Monero-XMR-D00100?style=flat-square&logo=monero&logoColor=white&labelColor=000000" alt="Monero"> Monero (XMR)
 
 <p align="center">
-  <img src="QR%20Monero%20recieve.png" width="180" alt="Monero receive QR code">
+  <img src="QR%20Monero%20receive.png" width="180" alt="Monero receive QR code">
 </p>
 
 ```text
