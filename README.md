@@ -216,15 +216,17 @@
 ---
 
 <!-- ACHIEVEMENTS:START -->
-## Achievements
+## GitHub Achievements
 
 <div align="center">
 
-<img src="github-achievements/assets/achievements.svg" alt="GitHub achievements">
+<a href="https://github.com/Lamar-Glass?achievement=yolo&amp;tab=achievements" title="YOLO"><img src="github-achievements/assets/badges/yolo.png" width="90" alt="GitHub achievement: YOLO"></a>&nbsp;&nbsp;<a href="https://github.com/Lamar-Glass?achievement=quickdraw&amp;tab=achievements" title="Quickdraw"><img src="github-achievements/assets/badges/quickdraw.png" width="90" alt="GitHub achievement: Quickdraw"></a>&nbsp;&nbsp;<a href="https://github.com/Lamar-Glass?achievement=pull-shark&amp;tab=achievements" title="Pull Shark"><img src="github-achievements/assets/badges/pull-shark.png" width="90" alt="GitHub achievement: Pull Shark"></a>
+
+<sub>YOLO · Quickdraw · Pull Shark</sub>
 
 </div>
 
-_Refresh with `python3 github-achievements/github_achievements.py --update-readme`._
+Official badges from [@Lamar-Glass's GitHub profile](https://github.com/Lamar-Glass?tab=achievements).
 <!-- ACHIEVEMENTS:END -->
 
 ---

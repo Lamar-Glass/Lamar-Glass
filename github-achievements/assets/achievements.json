@@ -1,94 +1,27 @@
 {
   "username": "Lamar-Glass",
-  "generated_at": "2026-11-28 10:57 UTC",
-  "unlocked_count": 9,
-  "possible_count": 50,
-  "stats": {
-    "username": "Lamar-Glass",
-    "account_age_days": 337,
-    "public_repos": 55,
-    "followers": 0,
-    "total_stars": 0,
-    "total_forks": 0,
-    "recent_commits": 0,
-    "active_days": 2,
-    "merged_prs": 0,
-    "issues_opened": 0,
-    "contributions": 0,
-    "longest_streak": 0
-  },
+  "checked_at": "2026-11-28 11:19 UTC",
   "achievements": [
     {
-      "id": "public_repos-50",
-      "title": "50 repos",
-      "label": "Public repositories",
-      "value": 55,
-      "tier": 4,
-      "color": "#FFD700"
+      "slug": "yolo",
+      "name": "YOLO",
+      "badge_url": "https://github.githubassets.com/assets/yolo-default-be0bbff04951.png",
+      "profile_url": "https://github.com/Lamar-Glass?achievement=yolo&tab=achievements",
+      "local_file": "badges/yolo.png"
     },
     {
-      "id": "public_repos-25",
-      "title": "25 repos",
-      "label": "Public repositories",
-      "value": 55,
-      "tier": 3,
-      "color": "#FFB347"
+      "slug": "quickdraw",
+      "name": "Quickdraw",
+      "badge_url": "https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png",
+      "profile_url": "https://github.com/Lamar-Glass?achievement=quickdraw&tab=achievements",
+      "local_file": "badges/quickdraw.png"
     },
     {
-      "id": "public_repos-10",
-      "title": "10 repos",
-      "label": "Public repositories",
-      "value": 55,
-      "tier": 2,
-      "color": "#D00100"
-    },
-    {
-      "id": "account_age_days-180",
-      "title": "180 days on GitHub",
-      "label": "Days on GitHub",
-      "value": 337,
-      "tier": 2,
-      "color": "#D00100"
-    },
-    {
-      "id": "public_repos-5",
-      "title": "5 repos",
-      "label": "Public repositories",
-      "value": 55,
-      "tier": 1,
-      "color": "#FE6F00"
-    },
-    {
-      "id": "account_age_days-90",
-      "title": "90 days on GitHub",
-      "label": "Days on GitHub",
-      "value": 337,
-      "tier": 1,
-      "color": "#FE6F00"
-    },
-    {
-      "id": "active_days-1",
-      "title": "1 day",
-      "label": "Active days (last 90 days)",
-      "value": 2,
-      "tier": 0,
-      "color": "#8A8A8A"
-    },
-    {
-      "id": "public_repos-1",
-      "title": "1 repo",
-      "label": "Public repositories",
-      "value": 55,
-      "tier": 0,
-      "color": "#8A8A8A"
-    },
-    {
-      "id": "account_age_days-30",
-      "title": "30 days on GitHub",
-      "label": "Days on GitHub",
-      "value": 337,
-      "tier": 0,
-      "color": "#8A8A8A"
+      "slug": "pull-shark",
+      "name": "Pull Shark",
+      "badge_url": "https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png",
+      "profile_url": "https://github.com/Lamar-Glass?achievement=pull-shark&tab=achievements",
+      "local_file": "badges/pull-shark.png"
     }
   ]
 }

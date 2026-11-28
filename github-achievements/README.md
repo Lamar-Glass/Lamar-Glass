@@ -1,18 +1,21 @@
-# GitHub Achievements
+# GitHub Achievement Badges
 
-A small Python tool that turns public GitHub data into achievement cards for a
-profile README. It uses only the standard library.
+Fetches your **real, official GitHub achievement badges** (Pull Shark,
+Quickdraw, YOLO, Starstruck, etc.) from your public profile and embeds them in
+your profile README. Standard library only — no dependencies.
 
-## What it does
+## Where the badges come from
 
-- Reads your public profile, repositories, and recent public events.
-- With an optional `GITHUB_TOKEN`, also reads the last year's contribution
-  calendar (total contributions and longest streak) via GraphQL.
-- Scores achievement tiers from `config.json` (repos, followers, stars, forks,
-  commits, active days, PRs, issues, tenure, contributions).
-- Writes `assets/achievements.svg` and `assets/achievements.json`.
-- Optionally refreshes the README section between the
-  `<!-- ACHIEVEMENTS:START -->` / `<!-- ACHIEVEMENTS:END -->` markers.
+GitHub lists unlocked achievements at:
+
+```text
+https://github.com/<username>?tab=achievements
+```
+
+Each unlocked achievement includes an official badge image hosted at
+`github.githubassets.com`. This tool reads that page, downloads the PNGs into
+`assets/badges/`, and writes a README section linking each badge back to its
+achievement page.
 
 ## Usage
 
@@ -22,32 +25,22 @@ From the profile repository root:
 python3 github-achievements/github_achievements.py --update-readme
 ```
 
-With full contribution metrics:
+Options:
 
-```bash
-GITHUB_TOKEN=ghp_... python3 github-achievements/github_achievements.py --update-readme
-```
-
-Useful flags:
-
-- `--username NAME` — profile to score (default: `Lamar-Glass`).
-- `--config PATH` — alternative tier configuration.
-- `--output-dir PATH` — where the SVG/JSON are written.
+- `--username NAME` — profile to read (default: `Lamar-Glass`).
+- `--output-dir PATH` — where badge PNGs and metadata are written.
 - `--readme PATH` — README to update.
-- `--update-readme` — inject/refresh the README section.
+- `--update-readme` — refresh the section between the achievement markers.
+- `--no-download` — keep remote GitHub image URLs instead of saving PNGs.
+- `--config PATH` — display options (`badge_width`, `show_names`).
 
-## Configuration
-
-Edit `config.json` to change thresholds, labels, units, or tier colors. Each
-metric has a `key`, `label`, `unit`, `singular`, and a list of `tiers`; the
-highest reached tier becomes the achievement. Only the 12 highest-tier cards
-are rendered to keep the image compact.
+The tool writes `assets/achievements.json` with each badge's name, slug, source
+URL, and profile link.
 
 ## Automation
 
-`.github/workflows/achievements.yml` runs the generator weekly and commits any
-changes, so the profile badges stay current without manual runs. The workflow
-uses the repository's built-in `GITHUB_TOKEN`.
+`.github/workflows/achievements.yml` runs weekly and on demand, committing any
+new or changed badges so the profile stays current.
 
 ## Tests
 
@@ -57,8 +50,8 @@ python3 -m unittest discover -s github-achievements
 
 ## Notes
 
-- Public events only cover ~90 days, so commit/PR/issue metrics reflect recent
-  activity, not lifetime totals.
-- Followers/stars/forks come directly from the public API.
-- If the GraphQL call is unavailable or unauthorized, the tool prints a warning
-  and continues with the REST-based achievements.
+- Only achievements GitHub has actually awarded appear on the page; the tool
+  cannot invent or unlock badges for you.
+- If GitHub changes its HTML, adjust `CARD_PATTERN` in the script.
+- Badge images remain the property of GitHub and are used as public profile
+  assets.

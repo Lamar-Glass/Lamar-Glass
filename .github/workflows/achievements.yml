@@ -20,12 +20,10 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Generate achievement cards
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Fetch official achievement badges
         run: python3 github-achievements/github_achievements.py --update-readme
 
-      - name: Commit refreshed cards
+      - name: Commit refreshed badges
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -33,6 +31,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No achievement changes to commit"
           else
-            git commit -m "chore: refresh GitHub achievements"
+            git commit -m "chore: refresh GitHub achievement badges"
             git push
           fi
